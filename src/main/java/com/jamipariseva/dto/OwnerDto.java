@@ -1,4 +1,4 @@
 package com.jamipariseva.dto;
 
-public class OwnerEntity {
+public class OwnerDto {
 }
